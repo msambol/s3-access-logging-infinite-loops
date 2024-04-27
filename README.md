@@ -1,6 +1,6 @@
 # s3-access-logging-infinite-loops
 
-* [Detect Infinite Loops in Amazon S3 Access Logging](https://michaelsambol.medium.com/detect-infinite-loops-in-amazon-s3-access-logging-bd389efdc55f)
+* [Detect Infinite Loops in Amazon S3 Access Logging](https://medium.com/p/bd389efdc55f)
 
 ## Run
 
